@@ -1,0 +1,13 @@
+1 abc
+before swap 
+1 2
+before swap 
+3 4
+before swap 
+5 6
+after swap 
+5 6
+after swap 
+3 4
+after swap 
+1 2
